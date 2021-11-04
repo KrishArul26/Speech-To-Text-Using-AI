@@ -20,6 +20,7 @@
 </p>
 
 <p style= 'text-align: justify;'> 
+ 
    🔑 Prerequisites
       All the dependencies and required libraries are included in the file requirements.txt
 
@@ -62,10 +63,21 @@ pip install -r requirements.txt
 
 <h2 align="center"> 💡 Working </h2>
 
-1. type the following command:
+Type the following command:
 
 ```
 python app.py
 
 ```
-After that You will see the running IP adress just copy and paste into you browser and import or upload your speech then closk the predict buttoon.
+After that You will see the running IP adress just copy and paste into you browser and import or upload your speech then closk the predict button.
+
+<h2 align="center"> 🔑 Results </h2>
+
+ <p align="center">
+  <img width="400" src="https://user-images.githubusercontent.com/74568334/140288758-8cecd7bd-13b0-4243-b847-971b6661bf86.png">
+  <img width="400" src="https://user-images.githubusercontent.com/74568334/140288962-c13eb0fc-f0e8-44f9-a9f7-eaa823c61e63.png">
+</p>
+
+
+
+
