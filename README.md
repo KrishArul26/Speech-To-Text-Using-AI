@@ -44,7 +44,7 @@ cd Speech-To-Text-Using-AI
 ```
 3. Create a Python 3.6 version of virtual environment named 'speech' and activate it
 
-``
+```
 pip install virtualenv
 
 virtualenv speech
@@ -52,6 +52,7 @@ virtualenv speech
 speech\Scripts\activate
 
 ```
+
 4. Now, run the following command in your Terminal/Command Prompt to install the libraries required!!!
 
 ```
