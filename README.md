@@ -74,8 +74,12 @@ After that You will see the running IP adress just copy and paste into you brows
 <h2 align="center"> 🔑 Results </h2>
 
  <p align="center">
-  <img width="400" src="https://user-images.githubusercontent.com/74568334/140288758-8cecd7bd-13b0-4243-b847-971b6661bf86.png">
-  <img width="400" src="https://user-images.githubusercontent.com/74568334/140288962-c13eb0fc-f0e8-44f9-a9f7-eaa823c61e63.png">
+  <img width="800" src="https://user-images.githubusercontent.com/74568334/140288758-8cecd7bd-13b0-4243-b847-971b6661bf86.png">
+</p>
+
+
+<p align="center">
+  <img width="800" src="https://user-images.githubusercontent.com/74568334/140288962-c13eb0fc-f0e8-44f9-a9f7-eaa823c61e63.png">
 </p>
 
 
