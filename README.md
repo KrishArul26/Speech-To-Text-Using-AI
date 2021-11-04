@@ -46,11 +46,13 @@ cd Speech-To-Text-Using-AI
 
 ``
 pip install virtualenv
+
 virtualenv speech
+
 speech\Scripts\activate
 
 ```
-4. Now, run the following command in your Terminal/Command Prompt to install the libraries required
+4. Now, run the following command in your Terminal/Command Prompt to install the libraries required!!!
 
 ```
 pip install -r requirements.txt
