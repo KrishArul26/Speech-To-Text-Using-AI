@@ -26,3 +26,10 @@
       Python 3.6
  
 </p>
+
+<p style= 'text-align: justify;'> 
+   🚀 Installation For Speech2Text Application
+      ```
+ yes
+      ```
+</p>
